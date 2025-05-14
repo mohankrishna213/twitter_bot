@@ -15,8 +15,8 @@ const rl = readline.createInterface({
 // To set environment variables on macOS or Linux, run the export commands below from the terminal:
 // export CONSUMER_KEY='YOUR-KEY'
 // export CONSUMER_SECRET='YOUR-SECRET'
-const consumer_key = 'puOQr0w57uX9m4dz5jGRA6Cg8';
-const consumer_secret = 'BAuw8fau20MxsrjYIYIIEQCQJ60CcYNNsax1pqNTioKODk0zio';
+const consumer_key = 'YOUR_CONSUMER_KEY';
+const consumer_secret = 'YOUR_CONSUMER_SECRET';
 
 // if (!consumer_key || !consumer_secret) {
 //   throw new Error('CONSUMER_KEY and CONSUMER_SECRET environment variables must be set');
